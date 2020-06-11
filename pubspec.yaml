@@ -2,7 +2,7 @@ name: flutterplugin
 description: FlutterPlugin
 version: 0.0.1
 author: Ap <patchanaphong@hotmail.com>
-homepage:
+homepage: https://github.com/Minsiderock/FlutterTestDeplayPlugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
